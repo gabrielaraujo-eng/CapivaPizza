@@ -188,3 +188,8 @@ A estrutura pode ser complementada com pastas de imagens, estilos, scripts e pá
    ```
 
 3. Abra a página inicial do site em um navegador ou utilize a extensão **Live Server** do Visual Studio Code.
+## Versões e testes antigos
+O repositório [VingadoresDaProgramacao](https://github.com/gabrielaraujo-eng/VingadoresDaProgramacao) reúne versões antigas, protótipos e testes do site de pizzaria que antecederam o Capiva-Pizza atual. O projeto foi mantido separado como histórico do desenvolvimento.
+
+- **Download do arquivo ZIP:** [VingadoresDaProgramacao.zip](arquivos/versoes-e-testes-antigos/VingadoresDaProgramacao.zip)
+- **Repositório original:** [github.com/gabrielaraujo-eng/VingadoresDaProgramacao](https://github.com/gabrielaraujo-eng/VingadoresDaProgramacao)
